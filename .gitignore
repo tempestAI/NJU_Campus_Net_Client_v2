@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.ipch
+.vs/NJU/v14/.suo
+*.opendb
+NJU.VC.db
